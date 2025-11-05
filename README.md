@@ -53,8 +53,8 @@ The final model achieved a test accuracy of approximately **80%**. The confusion
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-    cd your-repo
+    git clone https://github.com/asaezs/CardClassifier.git
+    cd CardClassifier
     ```
 
 2.  **Create a virtual environment:**
